@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_9vKxNkGAzm8QKP9Dt4gq5vwAOQeDqVV
 """
 
-!pip install pandas numpy
 import pandas as pd
 
 # Create a dataset of workout plans
